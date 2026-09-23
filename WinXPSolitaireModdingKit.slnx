@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="WinXPSolitaireModdingKit.vcxproj" />
+  <Project Path="WinXPSolitaireModdingKit.vcxproj" Id="f0af70c4-8f4b-4f71-b2ef-e7b9b3610210" />
 </Solution>
